@@ -35,7 +35,7 @@ Designed to be **fast, accessible, and minimal**, while clearly communicating te
 
 ## 📸 Screenshots
 
-> *(Optional — add or update as your UI evolves)*
+> *(Optional — add or update as your UI evolves)* 
 
 ![Homepage](./screenshots/screenshot_home.png)
 ![Journey](./screenshots/screenshot_journey.png)
