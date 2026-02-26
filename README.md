@@ -71,8 +71,9 @@ I’m **Sylvia Barick**, an aspiring **AI & ML Engineer** with hands-on experien
 ## 🌍 Connect With Me
 
 - 🔗 GitHub: https://github.com/sylvia-barick  
-- 💼 LinkedIn: https://linkedin.com/in/sylvia-barick  
-- 🌐 Portfolio: sylviaportfolio  
+- 💼 LinkedIn: https://www.linkedin.com/in/sylvia-barick-081651321/  
+- 🌐 Portfolio: https://sylvia-seven.vercel.app/
+- 🐦 Twitter (X): https://x.com/5_barick  
 
 ---
 
