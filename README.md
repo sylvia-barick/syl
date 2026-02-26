@@ -60,6 +60,7 @@ I’m **Sylvia Barick**, an aspiring **AI & ML Engineer** with hands-on experien
 
 ## 🏅 Experience & Achievements
 
+- 🏆 **Winner — Tech Triad, IIT Kharagpur**  
 - 🥇 **Most Innovative Award** — Hack Synthesis 2.0  
 - 🎯 Finalist — Kshitij, IIT Kharagpur  
 - 🧩 Hackathons: Algorand Buildstation, Team1 Avalanche, Craft-n-Code, Rise In (Celo & Stellar)  
